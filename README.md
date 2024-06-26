@@ -15,7 +15,7 @@ Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu máquina.
    ```
 
 2. **link en vivo**
-   https://camilomunozal.github.io/contador-de-clicks/
+  https://camilomunozal.github.io/contador-de-clicks/?authuser=0
 
 bash
 Copiar código
